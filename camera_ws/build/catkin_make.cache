@@ -1,0 +1,2 @@
+VINS-Mono/ar_demo:VINS-Mono/benchmark_publisher:VINS-Mono/camera_model:VINS-Mono/feature_tracker:VINS-Mono/pose_graph:VINS-Mono/vins_estimator:realsense-ros/realsense2_camera:realsense-ros/realsense2_description
+-DCATKIN_DEVEL_PREFIX=/home/taehoon/camera_ws/devel -DCMAKE_INSTALL_PREFIX=/home/taehoon/camera_ws/install -G Unix Makefiles
